@@ -1,0 +1,9 @@
+.project
+.classpath
+derby.log
+db/
+db/*
+**/.settings/
+**/bin/
+**/target/
+**/test-output/
